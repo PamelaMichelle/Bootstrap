@@ -1,0 +1,32 @@
+
+.mi-columna{
+    border:1px solid rgb(255, 160, 160);
+    background-color: rgb(233, 224, 146);
+    height: 50px;
+}
+.mi-fila{
+
+    height: 50px;
+}
+
+.mi-columna1{
+    border:1px solid rgb(248, 170, 97);
+    background-color: rgb(119, 241, 155);
+    height: 50px;
+}
+.mi-fila1{
+    padding-top: 80px;
+    height: 50%;
+}
+
+.mi-columna2{
+    border:1px solid rgb(255, 255, 255);
+    background-color: rgb(147, 238, 215);
+    height: 50px;
+}
+.mi-fila2{
+    padding-top: 75px;
+    height: 40px;
+}
+
+
